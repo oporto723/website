@@ -3,45 +3,45 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.bejohnny.dev/posts/my-first-post/</loc>
+    <loc>https://www.bejohnny.dev/posts/my-first-post/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.bejohnny.dev/projects/my-first-project/</loc>
+    <loc>https://www.bejohnny.dev/projects/my-first-project/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.bejohnny.dev/about/</loc>
+    <loc>https://www.bejohnny.dev/about/</loc>
   </url>
   
   <url>
-    <loc>http://www.bejohnny.dev/</loc>
+    <loc>https://www.bejohnny.dev/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.bejohnny.dev/categories/</loc>
+    <loc>https://www.bejohnny.dev/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.bejohnny.dev/contact/</loc>
+    <loc>https://www.bejohnny.dev/contact/</loc>
   </url>
   
   <url>
-    <loc>http://www.bejohnny.dev/posts/</loc>
+    <loc>https://www.bejohnny.dev/posts/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.bejohnny.dev/projects/</loc>
+    <loc>https://www.bejohnny.dev/projects/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.bejohnny.dev/tags/</loc>
+    <loc>https://www.bejohnny.dev/tags/</loc>
     <priority>0</priority>
   </url>
   
